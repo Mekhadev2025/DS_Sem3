@@ -1,0 +1,5 @@
+1.POLYADD-polynomial addition
+2.POLYEVAL-polynomial evaluation 
+3.SPARSITY-sparsity calculation
+4.SPARSESUM-finding sum of 2 sparse matrices
+5.TRANSPOSE-Finding transpose of a sparese symmetric matrix using fast-transpose 
